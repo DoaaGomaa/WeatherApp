@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق الطقس</string>
+    <string name="title_home">الصفحة الرئيسية</string>
+    <string name="title_alerts">التنبيهات</string>
+    <string name="title_favourites">المفضلة</string>
+    <string name="title_settings">الإعدادات</string>
+    <string name="humidity">الرطوبة</string>
+    <string name="pressure">الضغط</string>
+    <string name="speed_wind">الرياح</string>
+    <string name="cloud">السحب</string>
+    <string name="_24_hours">الطقس 24-ساعه</string>
+    <string name="_7_days_forecast">توقعات 7-أيام قادمة</string>
+    <string name="device_location_summary">اختر موقع من الخريطة</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="location">الموقع</string>
+    <string name="allow_location">السماح للتطبيق بالحصول علي موقعك</string>
+    <string name="notification_and_alert">الإشعارات و التنبيهات</string>
+    <string name="alert">المنبه</string>
+    <string name="notification_alert">الاشعارات التنبيهات</string>
+    <string name="units">الوحدات</string>
+    <string name="unit_system">وحدة النظام</string>
+    <string name="language">اللغات</string>
+    <string name="lang_system">لغة النظام</string>
+    <string name="system_language">لغة النظام</string>
+    <string name="saturday">السبت</string>
+    <string name="sunday">الأحد</string>
+    <string name="monday">الاثنين</string>
+    <string name="tuesday">الثلاثاء</string>
+    <string name="wednesday">الأربعاء</string>
+    <string name="friday">الجمعة</string>
+    <string name="thursday">الخميس</string>
+    <string name="feels_like">تشعر و كأنها</string>
+    <string name="from_time">من الوقت</string>
+    <string name="to_time">إلى الوقت</string>
+    <string name="date">التاريخ</string>
+    <string name="type_of_event">الحدث</string>
+    <string name="notification">إشعار</string>
+    <string name="alarm">منبه</string>
+    <string name="add_alert">إضافة تنبيه</string>
+    <string name="description">الوصف</string>
+
+    <string-array name="event_options">
+        <item>مطر</item>
+        <item>ثلوج</item>
+        <item>ضباب</item>
+        <item>عاصفة</item>
+        <item>غيوم</item>
+        <item>رياح</item>
+
+    </string-array>
+
+</resources>
